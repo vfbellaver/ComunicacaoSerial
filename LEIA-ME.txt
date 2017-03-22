@@ -1,4 +1,4 @@
-Copie o arquivo rxtxSerial.dll para:
+Copie o arquivo rxtxSerial.dll que está na pasta lib/dlls para:
 
 C:\Program Files\Java\jdkx.x.x\bin 
 onde x.x.x é a versão do JDK, por exemplo: C:\Program Files\Java\jdk1.6.40\bin;
